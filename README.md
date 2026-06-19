@@ -1,3 +1,4 @@
+Hi 👋, I'm AASTHA 
 # 💫 About Me:
 💻 Verilog HDL  <br>🖥️ FPGA Design  <br>⚡ Digital Electronics  <br>🧠 VLSI Design  <br>🔬 Semiconductor Fundamentals  <br>🔧 Embedded Systems  <br>📈 MATLAB
 
