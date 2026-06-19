@@ -1,5 +1,11 @@
-Hi 👋, I'm AASTHA 
-# 💫 About Me:
+# Hi 👋, I'm AASTHA 
+I am a passionate Electronics and Communication Engineering student pursuing my B.Tech, with a strong interest in VLSI Design, FPGA Development, Semiconductor Technology, and Digital System Design.
+
+Future of semiconductor and chip design by developing innovative hardware solutions and gaining expertise in modern VLSI and FPGA technologies. I enjoy exploring the intersection of electronics and computing, turning theoretical concepts into practical projects and real-world applications.
+
+I am continuously learning and building projects in areas such as digital electronics, embedded systems, hardware description languages, and semiconductor design while strengthening my problem-solving and programming skills.
+
+
 💻 Verilog HDL  <br>🖥️ FPGA Design  <br>⚡ Digital Electronics  <br>🧠 VLSI Design  <br>🔬 Semiconductor Fundamentals  <br>🔧 Embedded Systems  <br>📈 MATLAB
 
 
