@@ -73,11 +73,11 @@ I'm continuously learning and building projects in digital electronics, embedded
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasthapandya04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasthapandya04&theme=rose&hide_border=false&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aasthapandya04&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aasthapandya04&theme=rose&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasthapandya04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasthapandya04&theme=rose&hide_border=false&count_private=false&layout=compact)
 
 </div>
 
